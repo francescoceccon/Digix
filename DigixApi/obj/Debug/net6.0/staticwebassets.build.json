@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7QCN6zUZdMkZOJAWQExqdhfGwhHidph67/XxR2zBMRc=",
+  "Source": "DigixApi",
+  "BasePath": "_content/DigixApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
